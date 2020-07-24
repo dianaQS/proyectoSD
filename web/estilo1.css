@@ -1,0 +1,36 @@
+body{
+    width: 900PX;
+    margin: auto;
+    background-color: bisque;
+    border: blueviolet;
+    
+}
+h1{
+    background-color: crimson;
+    color:white;
+    text-align: center;
+}
+h2{
+    background-color:  crimson;
+    color: lightblue;
+    font-size: 30Px;
+    font-family:Helvetica,Futura,Arial,Verdana,sans-serif;
+    
+}
+nav li{
+    display: inline-block;
+    padding:5px;
+}
+.foto2{
+    padding: 10px; margin: 10px; border: 2px solid black; float: right; width: 250px;
+}
+.menusuperior{
+    font-size: x-large;
+}
+.botonimagen1{
+  background-image: url(imagen.jpg);
+  
+}
+
+
+
